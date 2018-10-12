@@ -1,7 +1,6 @@
 language: go
 go: 
   - "1.1.x"
-  - master
 script: go test
 notifications:
   email: false
